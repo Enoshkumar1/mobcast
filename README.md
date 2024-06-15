@@ -20,6 +20,8 @@ To fetch and display news data in a table format with search, sorting, and pagin
   Paginated for 10 data rows
 
 ### CURL - cacert
+####  Conversion done with mk-ca-bundle.pl version 1.29.
+#### SHA256: 4d96bd539f4719e9ace493757afbe4a23ee8579de1c97fbebc50bba3c12e8c1e
   (GuzzleHttp\Exception\RequestException cURL error 60: SSL certificate problem: unable to get local issuer certificate (see https://curl.haxx.se/libcurl/c/libcurl-      errors.html) for https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms?feedtype=json)
   Used cacert.pem to prevent CURL SSL errors and warnings.
   After using cacert.pem file Servers certificate is validated (which the GUzzleHttp uses) 
