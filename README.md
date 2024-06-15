@@ -1,5 +1,10 @@
 # mobcast
 To fetch and display news data in a table format with search, sorting, and pagination using DataTables and AJAX in a Laravel application.
+
+
+https://github.com/Enoshkumar1/mobcast/assets/104003673/84ef3d3c-c191-4731-9159-08d75ab30614
+
+
 ## Components Involved
 ### Controller (NewsController):
   1. Handles the HTTP requests for news data from TimesofIndia.
